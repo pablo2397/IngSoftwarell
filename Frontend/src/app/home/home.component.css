@@ -1,0 +1,11 @@
+:host {
+  display: block;
+  height: 100vh;
+  background-image: url('/assets/fondo-home.png');
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+    text-align: center;
+    }
